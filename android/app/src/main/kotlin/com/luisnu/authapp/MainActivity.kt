@@ -1,4 +1,4 @@
-package com.example.authapp
+package com.luisnu.authapp
 
 import io.flutter.embedding.android.FlutterActivity
 
